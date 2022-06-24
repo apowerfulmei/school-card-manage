@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1646126519 source:c:\users\Ã·Ä³Ñå\desktop\¿ÎÉè\canteen_manage\main.cpp
+	"analysis.h"
+	"users.h"
+	"windows.h"
+
+1646137757 c:\users\Ã·Ä³Ñå\desktop\¿ÎÉè\canteen_manage\users.h
+	<iostream>
+	<string>
+
+1647330477 source:c:\users\Ã·Ä³Ñå\desktop\¿ÎÉè\canteen_manage\users.cpp
+	<string.h>
+	<fstream>
+	<algorithm>
+	"users.h"
+	"analysis.h"
+
+1646131613 source:c:\users\Ã·Ä³Ñå\desktop\¿ÎÉè\canteen_manage\windows.cpp
+	<string.h>
+	<fstream>
+	<algorithm>
+	<sstream>
+	<ctime>
+	<vector>
+	"users.h"
+	"windows.h"
+	"analysis.h"
+
+1646131613 c:\users\Ã·Ä³Ñå\desktop\¿ÎÉè\canteen_manage\windows.h
+	"users.h"
+
+1646131613 source:c:\users\Ã·Ä³Ñå\desktop\¿ÎÉè\canteen_manage\analysis.cpp
+	"analysis.h"
+	"windows.h"
+	<fstream>
+	<ctime>
+	<string.h>
+	<algorithm>
+
+1646278143 c:\users\Ã·Ä³Ñå\desktop\¿ÎÉè\canteen_manage\analysis.h
+	<vector>
+	"users.h"
+	"windows.h"
+
+1647330600 source:c:\users\Ã·Ä³Ñå\desktop\ÐÅ°²2001-u202011982Ã·¿ªÑå\canteen_manage\analysis.cpp
+	"analysis.h"
+	"windows.h"
+	<fstream>
+	<ctime>
+	<string.h>
+	<algorithm>
+
+1646278143 c:\users\Ã·Ä³Ñå\desktop\ÐÅ°²2001-u202011982Ã·¿ªÑå\canteen_manage\analysis.h
+	<vector>
+	"users.h"
+	"windows.h"
+
+1646137757 c:\users\Ã·Ä³Ñå\desktop\ÐÅ°²2001-u202011982Ã·¿ªÑå\canteen_manage\users.h
+	<iostream>
+	<string>
+
+1646131613 c:\users\Ã·Ä³Ñå\desktop\ÐÅ°²2001-u202011982Ã·¿ªÑå\canteen_manage\windows.h
+	"users.h"
+
+1646126519 source:c:\users\Ã·Ä³Ñå\desktop\ÐÅ°²2001-u202011982Ã·¿ªÑå\canteen_manage\main.cpp
+	"analysis.h"
+	"users.h"
+	"windows.h"
+
+1647330600 source:c:\users\Ã·Ä³Ñå\desktop\ÐÅ°²2001-u202011982Ã·¿ªÑå\canteen_manage\users.cpp
+	<string.h>
+	<fstream>
+	<algorithm>
+	"users.h"
+	"analysis.h"
+
+1647330600 source:c:\users\Ã·Ä³Ñå\desktop\ÐÅ°²2001-u202011982Ã·¿ªÑå\canteen_manage\windows.cpp
+	<string.h>
+	<fstream>
+	<algorithm>
+	<sstream>
+	<ctime>
+	<vector>
+	"users.h"
+	"windows.h"
+	"analysis.h"
+
